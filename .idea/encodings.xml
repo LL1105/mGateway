@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/YuGateway-Client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-Client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-Common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-Common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-Config-Center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-Config-Center/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-Core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-Core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-Dubbo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-Dubbo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-HttpServer/YuGateway-http-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-HttpServer/YuGateway-http-1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-HttpServer/YuGateway-http-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-HttpServer/YuGateway-http-2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-HttpServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-HttpServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-Register-Center/YuGateway-Register-Center-Api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-Register-Center/YuGateway-Register-Center-Api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-Register-Center/YuGateway-Register-Center-Nacos-Impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-Register-Center/YuGateway-Register-Center-Nacos-Impl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-Register-Center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-Register-Center/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-UserService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuGateway-UserService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mGateway-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mGateway-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mGateway-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mGateway-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mGateway-config-center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mGateway-config-center/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mGateway-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mGateway-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mGateway-http-server/mGateway-http-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mGateway-http-server/mGateway-http-1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mGateway-http-server/mGateway-http-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mGateway-http-server/mGateway-http-2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mGateway-http-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mGateway-http-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mGateway-register-center/mGateway-register-center-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mGateway-register-center/mGateway-register-center-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mGateway-register-center/mGateway-register-center-nacos-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mGateway-register-center/mGateway-register-center-nacos-impl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mGateway-register-center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mGateway-register-center/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

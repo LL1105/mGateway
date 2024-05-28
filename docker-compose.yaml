@@ -1,0 +1,15 @@
+version: '3.5'
+services:
+  nacos:
+    image: nacos/nacos-server:v2.2.2
+    container_name: nacos
+    restart: always
+    ports:
+      # web 界面访问端口
+      - 8848:8848
+      # 程序使用 grpc 连接的端口
+      - 9848:9848
+    environment:
+      - MODE=standalone
+    volumes:
+      - /app/nacos-single1/logs:/home/nacos/logs
