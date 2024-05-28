@@ -4536,3 +4536,6 @@ java.util.concurrent.TimeoutException: Waited 3000 milliseconds (plus 13919 mill
 2024-05-28 22:07:42.349  INFO  [doSubscribeAllServices.0] c.g.r.c.n.i.NacosRegisterCenter - service list size 3
 2024-05-28 22:07:52.351  INFO  [doSubscribeAllServices.0] c.g.r.c.n.i.NacosRegisterCenter - service list size 3
 2024-05-28 22:08:02.353  INFO  [doSubscribeAllServices.0] c.g.r.c.n.i.NacosRegisterCenter - service list size 3
+2024-05-28 22:08:12.355  INFO  [doSubscribeAllServices.0] c.g.r.c.n.i.NacosRegisterCenter - service list size 3
+2024-05-28 22:08:22.357  INFO  [doSubscribeAllServices.0] c.g.r.c.n.i.NacosRegisterCenter - service list size 3
+2024-05-28 22:08:32.359  INFO  [doSubscribeAllServices.0] c.g.r.c.n.i.NacosRegisterCenter - service list size 3
