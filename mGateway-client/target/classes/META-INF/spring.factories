@@ -1,2 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.gateway.client.autoconfigure.ApiClientAutoConfiguration

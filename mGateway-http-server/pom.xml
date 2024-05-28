@@ -35,8 +35,8 @@
         </dependency>
 
         <dependency>
-            <groupId>com.yu</groupId>
-            <artifactId>mGateway-Client</artifactId>
+            <groupId>com.gateway</groupId>
+            <artifactId>mGateway-client</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>

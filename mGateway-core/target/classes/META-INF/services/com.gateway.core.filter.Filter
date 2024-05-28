@@ -1,5 +1,0 @@
-com.gateway.core.filter.auth.AuthFilter
-com.gateway.core.filter.loadBalance.LoadBalanceFilter
-com.gateway.core.filter.router.RouterFilter
-com.gateway.core.filter.gray.GrayFilter
-com.gateway.core.filter.flow.FlowControlFilter
