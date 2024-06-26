@@ -4,7 +4,6 @@ import com.gateway.common.utils.redis.JedisUtil;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * @author yu
  * @description Redis限流器
  * @date 2024-04-10
  */

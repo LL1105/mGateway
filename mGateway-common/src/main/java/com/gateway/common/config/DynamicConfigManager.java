@@ -13,6 +13,7 @@ import java.util.stream.Collectors;
  * @date 2024-04-02
  */
 public class DynamicConfigManager {
+
     /**
      * 服务定义信息集合  serviceId——>ServiceDefinition
      */
@@ -37,6 +38,11 @@ public class DynamicConfigManager {
      * 路径集合        service——>List<Rule>
      */
     private ConcurrentHashMap<String, List<Rule>> serviceRuleMap = new ConcurrentHashMap<>();
+
+    /**
+     * 前缀对应的服务id    prefix——>service.uniqueId
+     */
+    private ConcurrentHashMap<String, String>  prefixRuleMap = new ConcurrentHashMap<>();
 
     public DynamicConfigManager() {
     }

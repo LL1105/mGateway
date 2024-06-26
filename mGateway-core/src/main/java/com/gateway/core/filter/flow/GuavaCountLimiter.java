@@ -13,7 +13,6 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author yu
  * @description 单机限流——Guava缓存
  * @date 2024-04-10
  */

@@ -9,14 +9,14 @@ import java.util.Objects;
 import java.util.Set;
 
 /**
- * @author yu
+ * @author mjj
  * @description 核心请求 url 的规则匹配类
  * @date 2024-03-31
  */
 @Data
 public class Rule implements Comparable<Rule>, Serializable {
     /**
-     * 规则ID
+     * 规则ID,需要保证唯一性
      */
     private String id;
 
@@ -41,7 +41,7 @@ public class Rule implements Comparable<Rule>, Serializable {
     private String prefix;
 
     /**
-     * 路径集合
+     * 请求路径路径集合
      */
     private List<String> paths;
 
@@ -53,7 +53,7 @@ public class Rule implements Comparable<Rule>, Serializable {
     /**
      * 过滤器集合
      */
-    private Set<FilterConfig> filterConfigs = new HashSet<FilterConfig>();
+    private Set<FilterConfig> filterConfigs = new HashSet<>();
 
     /**
      * 重试规则

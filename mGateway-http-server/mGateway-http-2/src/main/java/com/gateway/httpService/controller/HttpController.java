@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-@ApiService(serviceId = "backend-http-server", protocol = ApiProtocol.HTTP, patternPath = "/http-server/**")
+@ApiService(serviceId = "http-server", protocol = ApiProtocol.HTTP, patternPath = "/http-server/**")
 @Slf4j
 public class HttpController {
 

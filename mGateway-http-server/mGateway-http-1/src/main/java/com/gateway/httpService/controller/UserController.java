@@ -19,7 +19,7 @@ import java.util.Map;
 
 
 @RestController
-@ApiService(serviceId = "backend-user-server", protocol = ApiProtocol.HTTP, patternPath = "/user/**")
+@ApiService(serviceId = "user-server", protocol = ApiProtocol.HTTP, patternPath = "/user/**")
 @Slf4j
 public class UserController {
 

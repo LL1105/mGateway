@@ -26,6 +26,7 @@ public class RequestHelper {
     public static GatewayContext doContext(FullHttpRequest request, ChannelHandlerContext context) {
         // 封装网关内部请求对象
         GatewayRequest gatewayRequest = doRequest(request, context);
+        System.out.println(gatewayRequest.getUniqueId());
         // 根据请求id获取请求服务定义信息
         ServiceDefinition definition = DynamicConfigManager.getInstance().getServiceDefinition(gatewayRequest.getUniqueId());
         // 服务调用对象初始化

@@ -82,7 +82,7 @@ public class MonitorEndFilter implements Filter {
 
 			// 创建一个定制的Timer，记录请求的相关信息
 			Timer timer = prometheusMeterRegistry.timer("gateway_request",
-					"uniqueId", "backend-http-server:1.0.0",
+					"uniqueId", "http-server:1.0.0",
 					"protocol", "http",
 					"path", "/http-server/ping" + RandomUtils.nextInt(10, 200));
 			// 停止计时器，并将数据记录到Prometheus注册表中

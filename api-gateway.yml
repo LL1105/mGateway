@@ -8,7 +8,7 @@
       ],
       "prefix": "/user/private",
       "protocol": "http",
-      "serviceId": "backend-user-server",
+      "serviceId": "user-server",
       "filterConfigs": [
         {
           "config": {
@@ -34,7 +34,7 @@
       ],
       "prefix": "/user",
       "protocol": "http",
-      "serviceId": "backend-user-server",
+      "serviceId": "user-server",
       "filterConfigs": [
         {
           "config": {
@@ -56,7 +56,7 @@
       "retryConfig": {
         "times": 3
       },
-      "serviceId": "backend-http-server",
+      "serviceId": "http-server",
       "filterConfigs": [
         {
           "config": {
